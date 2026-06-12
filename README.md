@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Jaiswal</h1>
-<h3 align="center">Aspiring SOFTWARE ENGINEER| AI Enthusiast </h3>
+<h3 align="center">Aspiring AI/ML ENGINEER </h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/vaishnavi-jaiswal-860248302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> •
