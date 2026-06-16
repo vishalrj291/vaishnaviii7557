@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI/ML ENGINEER </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vaishnavi-jaiswal-860248302">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vaishnavi-jaiswal-860248302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> •
   <a href="mailto:vaishnaviii7557@gmail.com">Email</a> •
   <a href="https://github.com/vaishnaviii7557">GitHub</a>
 </p>
