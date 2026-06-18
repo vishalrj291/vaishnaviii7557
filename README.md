@@ -40,8 +40,8 @@
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=streamLit,numPy,pandas,,scikit-learn" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 ### ☁️ Tools & Platforms
